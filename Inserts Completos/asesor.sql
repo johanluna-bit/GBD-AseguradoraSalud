@@ -1,0 +1,10 @@
+insert into asesor (id_asesor, cedula_asesor, nombre_asesor, telefono_asesor, correo_asesor, direccion_asesor) values (1, '1313774688', 'Brett', '0996320036', 'bmackaig0@wikia.com', '9 Ludington Trail');
+insert into asesor (id_asesor, cedula_asesor, nombre_asesor, telefono_asesor, correo_asesor, direccion_asesor) values (2, '1316802235', 'Gary', '0995077742', 'ggardiner1@jigsy.com', '1 Russell Crossing');
+insert into asesor (id_asesor, cedula_asesor, nombre_asesor, telefono_asesor, correo_asesor, direccion_asesor) values (3, '1311481967', 'Nollie', '0994723458', 'nmcavey2@auda.org.au', '551 Monica Center');
+insert into asesor (id_asesor, cedula_asesor, nombre_asesor, telefono_asesor, correo_asesor, direccion_asesor) values (4, '1310798480', 'Erina', '0992230422', 'esewards3@statcounter.com', '28 Carioca Road');
+insert into asesor (id_asesor, cedula_asesor, nombre_asesor, telefono_asesor, correo_asesor, direccion_asesor) values (5, '1312900934', 'Lori', '0995941468', 'lmalin4@reverbnation.com', '42 Huxley Road');
+insert into asesor (id_asesor, cedula_asesor, nombre_asesor, telefono_asesor, correo_asesor, direccion_asesor) values (6, '1313610874', 'Bryna', '0990845345', 'bbundy5@youtu.be', '561 Scoville Point');
+insert into asesor (id_asesor, cedula_asesor, nombre_asesor, telefono_asesor, correo_asesor, direccion_asesor) values (7, '1311578065', 'Cherianne', '0991821970', 'cconechie6@1und1.de', '13133 Hollow Ridge Trail');
+insert into asesor (id_asesor, cedula_asesor, nombre_asesor, telefono_asesor, correo_asesor, direccion_asesor) values (8, '1315649635', 'Charmine', '0999844778', 'cmankor7@cam.ac.uk', '14 6th Court');
+insert into asesor (id_asesor, cedula_asesor, nombre_asesor, telefono_asesor, correo_asesor, direccion_asesor) values (9, '1318998047', 'Dunn', '0996466635', 'dstenners8@squidoo.com', '82371 Dovetail Parkway');
+insert into asesor (id_asesor, cedula_asesor, nombre_asesor, telefono_asesor, correo_asesor, direccion_asesor) values (10, '1317015956', 'Elenore', '0999667905', 'eburnitt9@rambler.ru', '9926 Eliot Circle');

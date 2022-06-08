@@ -1,0 +1,10 @@
+insert into clinica (id_clinica, nombre_clinica, telefono_clinica, direccion_clinica) values (1, 'Pacocha-Langosh', '0999447750', '579 Hallows Avenue');
+insert into clinica (id_clinica, nombre_clinica, telefono_clinica, direccion_clinica) values (2, 'Blanda and Sons', '0994068479', '21865 Crescent Oaks Avenue');
+insert into clinica (id_clinica, nombre_clinica, telefono_clinica, direccion_clinica) values (3, 'Waters, Kessler and Aufderhar', '0998300117', '9 Monument Circle');
+insert into clinica (id_clinica, nombre_clinica, telefono_clinica, direccion_clinica) values (4, 'Considine, DuBuque and White', '0995891348', '36 Vermont Avenue');
+insert into clinica (id_clinica, nombre_clinica, telefono_clinica, direccion_clinica) values (5, 'Rohan, Runolfsdottir and Rosenbaum', '0995763890', '43 Harper Lane');
+insert into clinica (id_clinica, nombre_clinica, telefono_clinica, direccion_clinica) values (6, 'Effertz-Beier', '0993592506', '248 Fisk Place');
+insert into clinica (id_clinica, nombre_clinica, telefono_clinica, direccion_clinica) values (7, 'Turner LLC', '0990483692', '14911 Parkside Pass');
+insert into clinica (id_clinica, nombre_clinica, telefono_clinica, direccion_clinica) values (8, 'Purdy and Sons', '0992419621', '04 Memorial Hill');
+insert into clinica (id_clinica, nombre_clinica, telefono_clinica, direccion_clinica) values (9, 'Hayes-Kutch', '0991008652', '542 Summit Drive');
+insert into clinica (id_clinica, nombre_clinica, telefono_clinica, direccion_clinica) values (10, 'Fay, Pfeffer and Veum', '0996676763', '544 Starling Terrace');

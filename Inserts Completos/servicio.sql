@@ -1,0 +1,10 @@
+insert into servicio (id_servicio, id_contrato, tipo_servicio, precio_servicio) values (1, 1, 'gmislozdzbyeeffratffiwqqffjpad', '€69,93');
+insert into servicio (id_servicio, id_contrato, tipo_servicio, precio_servicio) values (2, 2, 'ebyeisvcffzngupumwhwzjubdyxpdk', '€107,16');
+insert into servicio (id_servicio, id_contrato, tipo_servicio, precio_servicio) values (3, 3, 'mettpvgaflbtiuxrzuqyadwxwhgtig', '€187,77');
+insert into servicio (id_servicio, id_contrato, tipo_servicio, precio_servicio) values (4, 4, 'tiwoxrcvqpggxftexsooqounccgyep', '€185,89');
+insert into servicio (id_servicio, id_contrato, tipo_servicio, precio_servicio) values (5, 5, 'cpjsmrlsybmrwcnusqlcbhqimgvlhk', '€58,57');
+insert into servicio (id_servicio, id_contrato, tipo_servicio, precio_servicio) values (6, 6, 'dcmcykfcxllldzdsgnllomfhbvpykt', '€162,10');
+insert into servicio (id_servicio, id_contrato, tipo_servicio, precio_servicio) values (7, 7, 'lhppuoklbzjuqoklbsbeovtzluafgp', '€72,94');
+insert into servicio (id_servicio, id_contrato, tipo_servicio, precio_servicio) values (8, 8, 'oqcuchkkqirlabdvhbattcbaamqfqf', '€127,91');
+insert into servicio (id_servicio, id_contrato, tipo_servicio, precio_servicio) values (9, 9, 'pplswuwpnijxreurzqvkogaccrbknc', '€149,20');
+insert into servicio (id_servicio, id_contrato, tipo_servicio, precio_servicio) values (10, 10, 'pwtbxrbbfpnfxokrrxnkaboqstybaj', '€111,22');

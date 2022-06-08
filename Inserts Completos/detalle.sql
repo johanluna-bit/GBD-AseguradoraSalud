@@ -1,0 +1,10 @@
+insert into detalle (id_detalle, id_poliza, id_servicio, id_factura, descripcion, precio_detalle) values (1, 1, 1, 1, 'sztttetqspuzobwvzwdctxnlfuczsx', '€52,41');
+insert into detalle (id_detalle, id_poliza, id_servicio, id_factura, descripcion, precio_detalle) values (2, 2, 2, 2, 'eiuaoepgrpxhtbtewqnkbnutaakckn', '€4,25');
+insert into detalle (id_detalle, id_poliza, id_servicio, id_factura, descripcion, precio_detalle) values (3, 3, 3, 3, 'ejgdorjondctifqljsodabowvwxfnx', '€72,47');
+insert into detalle (id_detalle, id_poliza, id_servicio, id_factura, descripcion, precio_detalle) values (4, 4, 4, 4, 'rxczbspcfwqhkddjtkbrhjnaxhnbgq', '€71,17');
+insert into detalle (id_detalle, id_poliza, id_servicio, id_factura, descripcion, precio_detalle) values (5, 5, 5, 5, 'iddoqoaaxsyoktulzerchcnutihhex', '€27,99');
+insert into detalle (id_detalle, id_poliza, id_servicio, id_factura, descripcion, precio_detalle) values (6, 6, 6, 6, 'skwoxvyehfroavazdciffjvohbtyfy', '€45,64');
+insert into detalle (id_detalle, id_poliza, id_servicio, id_factura, descripcion, precio_detalle) values (7, 7, 7, 7, 'ldsxpttwhtvhmcrtnmijikwmwfskhq', '€65,81');
+insert into detalle (id_detalle, id_poliza, id_servicio, id_factura, descripcion, precio_detalle) values (8, 8, 8, 8, 'dbylbvumiqbcdyovkhbavbyqdsifhl', '€14,91');
+insert into detalle (id_detalle, id_poliza, id_servicio, id_factura, descripcion, precio_detalle) values (9, 9, 9, 9, 'buvgurdhbdpjflzefcxpkacppfchte', '€60,44');
+insert into detalle (id_detalle, id_poliza, id_servicio, id_factura, descripcion, precio_detalle) values (10, 10, 10, 10, 'ifytuldefbwplmnoimcjkhksrizzdr', '€58,83');

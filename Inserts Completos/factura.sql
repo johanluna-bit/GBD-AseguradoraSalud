@@ -1,0 +1,10 @@
+insert into factura (id_factura, id_contrato, fecha_factura) values (1, 1, '2022-03-10');
+insert into factura (id_factura, id_contrato, fecha_factura) values (2, 2, '2021-06-05');
+insert into factura (id_factura, id_contrato, fecha_factura) values (3, 3, '2022-02-05');
+insert into factura (id_factura, id_contrato, fecha_factura) values (4, 4, '2022-05-03');
+insert into factura (id_factura, id_contrato, fecha_factura) values (5, 5, '2021-05-07');
+insert into factura (id_factura, id_contrato, fecha_factura) values (6, 6, '2021-09-03');
+insert into factura (id_factura, id_contrato, fecha_factura) values (7, 7, '2021-11-01');
+insert into factura (id_factura, id_contrato, fecha_factura) values (8, 8, '2022-05-20');
+insert into factura (id_factura, id_contrato, fecha_factura) values (9, 9, '2021-07-25');
+insert into factura (id_factura, id_contrato, fecha_factura) values (10, 10, '2021-04-14');

@@ -1,0 +1,10 @@
+insert into patologia (id_patologia, id_cliente, tipo_patologia) values (1, 1, 'Remove ureteral stimulat');
+insert into patologia (id_patologia, id_cliente, tipo_patologia) values (2, 2, 'Remove dental packing');
+insert into patologia (id_patologia, id_cliente, tipo_patologia) values (3, 3, 'Open reduct mandible fx');
+insert into patologia (id_patologia, id_cliente, tipo_patologia) values (4, 4, 'Lung transplant NOS');
+insert into patologia (id_patologia, id_cliente, tipo_patologia) values (5, 5, 'Cul-de-sac operation NEC');
+insert into patologia (id_patologia, id_cliente, tipo_patologia) values (6, 6, 'Limb length proc-humerus');
+insert into patologia (id_patologia, id_cliente, tipo_patologia) values (7, 7, 'Adrenal lesion excision');
+insert into patologia (id_patologia, id_cliente, tipo_patologia) values (8, 8, 'Open spleen biopsy');
+insert into patologia (id_patologia, id_cliente, tipo_patologia) values (9, 9, 'Ant rect resect w colost');
+insert into patologia (id_patologia, id_cliente, tipo_patologia) values (10, 10, 'Revis extraoc musc surg');

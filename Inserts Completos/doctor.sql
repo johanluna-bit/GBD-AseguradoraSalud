@@ -1,0 +1,10 @@
+insert into doctor (id_doctor, cedula_doctor, nombre_doctor, telefono_doctor, correo_doctor, direccion_doctor) values (1, '1317015076', 'Timothee Fiddiman', '0999847666', 'tfiddiman0@taobao.com', '56 Shopko Drive');
+insert into doctor (id_doctor, cedula_doctor, nombre_doctor, telefono_doctor, correo_doctor, direccion_doctor) values (2, '1315529997', 'Tabbie Fiveash', '0991640603', 'tfiveash1@wisc.edu', '9082 Barby Parkway');
+insert into doctor (id_doctor, cedula_doctor, nombre_doctor, telefono_doctor, correo_doctor, direccion_doctor) values (3, '1311833482', 'Geri Moncey', '0999112884', 'gmoncey2@acquirethisname.com', '090 Loeprich Park');
+insert into doctor (id_doctor, cedula_doctor, nombre_doctor, telefono_doctor, correo_doctor, direccion_doctor) values (4, '1310343910', 'Zora Whitrod', '0992143919', 'zwhitrod3@wordpress.org', '181 Brickson Park Trail');
+insert into doctor (id_doctor, cedula_doctor, nombre_doctor, telefono_doctor, correo_doctor, direccion_doctor) values (5, '1317293355', 'Lazaro Tollow', '0992838904', 'ltollow4@umn.edu', '43 Burrows Terrace');
+insert into doctor (id_doctor, cedula_doctor, nombre_doctor, telefono_doctor, correo_doctor, direccion_doctor) values (6, '1312335412', 'Man Maypes', '0991364298', 'mmaypes5@desdev.cn', '5057 Myrtle Crossing');
+insert into doctor (id_doctor, cedula_doctor, nombre_doctor, telefono_doctor, correo_doctor, direccion_doctor) values (7, '1316472780', 'Gui Edwicker', '0994255345', 'gedwicker6@hugedomains.com', '1 Mesta Center');
+insert into doctor (id_doctor, cedula_doctor, nombre_doctor, telefono_doctor, correo_doctor, direccion_doctor) values (8, '1313390200', 'Dawna Larcher', '0995937406', 'dlarcher7@hao123.com', '622 Grim Plaza');
+insert into doctor (id_doctor, cedula_doctor, nombre_doctor, telefono_doctor, correo_doctor, direccion_doctor) values (9, '1316594417', 'Adrianna Zammitt', '0994322328', 'azammitt8@wunderground.com', '334 Waubesa Junction');
+insert into doctor (id_doctor, cedula_doctor, nombre_doctor, telefono_doctor, correo_doctor, direccion_doctor) values (10, '1312205274', 'Luca Peegrem', '0990291065', 'lpeegrem9@businessinsider.com', '1 Stone Corner Circle');

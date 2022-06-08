@@ -1,0 +1,10 @@
+insert into especialidad (id_especialidad, id_doctor, id_atencion, tipo_especialidad) values (1, 1, 1, 'Neurologo');
+insert into especialidad (id_especialidad, id_doctor, id_atencion, tipo_especialidad) values (2, 2, 2, 'Alergologo');
+insert into especialidad (id_especialidad, id_doctor, id_atencion, tipo_especialidad) values (3, 3, 3, 'Cardiologo');
+insert into especialidad (id_especialidad, id_doctor, id_atencion, tipo_especialidad) values (4, 4, 4, 'Endocrinologo');
+insert into especialidad (id_especialidad, id_doctor, id_atencion, tipo_especialidad) values (5, 5, 5, 'Neurologo');
+insert into especialidad (id_especialidad, id_doctor, id_atencion, tipo_especialidad) values (6, 6, 6, 'Alergologo');
+insert into especialidad (id_especialidad, id_doctor, id_atencion, tipo_especialidad) values (7, 7, 7, 'Alergologo');
+insert into especialidad (id_especialidad, id_doctor, id_atencion, tipo_especialidad) values (8, 8, 8, 'Neurologo');
+insert into especialidad (id_especialidad, id_doctor, id_atencion, tipo_especialidad) values (9, 9, 9, 'Cardiologo');
+insert into especialidad (id_especialidad, id_doctor, id_atencion, tipo_especialidad) values (10, 10, 10, 'Cardiologo');
